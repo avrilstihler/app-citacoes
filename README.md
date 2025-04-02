@@ -1,6 +1,8 @@
 #  App Citações 📖✏️ 
 
-> "Algumas palavras têm o poder de iluminar nossa mente, confortar nossa alma e transformar nossa visão de mundo. Uma única frase pode mudar um dia, um pensamento pode mudar uma vida. Registrar citações é como marcar as páginas mais impactantes de um livro—é dar destaque ao que nos toca, ao que nos move, ao que queremos guardar para sempre."
+> Algumas palavras têm o poder de iluminar nossa mente, confortar nossa alma e transformar nossa visão de mundo. Uma única frase pode mudar um dia, um pensamento pode mudar uma vida. Registrar citações é como marcar as páginas mais impactantes de um livro—é dar destaque ao que nos toca, ao que nos move, ao que queremos guardar para sempre.
+
+> "A palavra é meu domínio sobre o mundo." - Clarice Lispector
 
 O **App Citações** é um aplicativo Android desenvolvido em Flutter que permite cadastrar, visualizar, editar, excluir e favoritar citações de forma organizada. O app foi projetado para facilitar o armazenamento de citações inspiradoras, oferecendo uma interface simples e intuitiva. Entretanto, devido a um erro na importação dos ícones, eles não são exibidos corretamente, sendo substituídos por caracteres chineses. Apesar disso, as funcionalidades permanecem acessíveis e funcionais.
 
