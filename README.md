@@ -56,6 +56,4 @@ Para instalar o aplicativo em seu dispositivo Android, baixe o arquivo APK dispo
 
 [📥 Baixar App Citações](app-citacoes.apk)
 
-Caso tenha alguma sugestão ou feedback, fique à vontade para contribuir! 😊
-
 
