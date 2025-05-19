@@ -56,7 +56,8 @@ Para instalar o aplicativo em seu dispositivo Android, baixe o arquivo APK dispo
 
 [📥 Baixar App Citações](app-citacoes.apk)
 
-## 📄 Licença
+## Licença
 
-Este projeto está licenciado sob os termos da Licença Creative Commons - Atribuição-NãoComercial 4.0 Internacional. Uso comercial não é permitido.
+Este projeto está licenciado sob a [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+O uso comercial é **expressamente proibido** sem autorização do autor.
 
